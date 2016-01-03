@@ -1,4 +1,0 @@
-Extending Yii
-=============
-
-TDB
